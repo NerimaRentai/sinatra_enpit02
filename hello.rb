@@ -1,1 +1,8 @@
-#2016/9/19 作成
+#2016/9/19
+
+require 'sinatra'
+
+get '/' do
+	"Hello World!!"
+end
+ 
